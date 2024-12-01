@@ -1,5 +1,5 @@
 # Banking-System-Simulation
-Creating a Banking System Simulation project in Java is a great way to showcase your knowledge of Object-Oriented Programming (OOP) concepts and Data Structures & Algorithms (DSA). Below, I explain how to design, implement, and run a basic banking system.
+The Banking System Simulation is a project of a real-world banking system. It provides functionalities such as account creation, deposit, withdrawal, money transfer, and more, allowing users to interact with and understand the banking process.
 *Simulate a banking system with the following features:
 1. Account Management: Create, delete, and view accounts.
 2. Transactions: Deposit, withdraw, and transfer funds.
